@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(to right, #544a7d, #ffd452);
+}
+#login{
+    width:50%;
+    background-color:white;
+    margin: auto;
+    padding: 10px;
+    margin-top: 12%;
+}
+#login h1{
+    text-align: center;
+    color: crimson;
+}
+#form_login{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    font-size: 1.5em;
+}
+#form_login div{
+    margin-bottom: 3%;
+}
+#form_login label{
+    display:inline-block;
+    width: 15%;
+    text-align: right;
+}
+#form_login input{
+    width:60%;
+    margin-left:2%;
+}
+.ingresar{
+    width:20%;
+    background-color: crimson;
+    color:white;
+    border: none;
+    height:30px;
+}
+.ingresar:hover{
+    border-radius: 5px;
+    border:2px solid crimson;
+    background-color: transparent;
+    color:black;
+}
