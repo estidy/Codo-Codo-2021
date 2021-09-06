@@ -1,0 +1,22 @@
+.boxes{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content:space-around;
+
+}
+.rojo{
+    width:20%;
+    height: 250px;
+    background-color: red;
+    
+}
+.rojo h2{
+    color:yellow;
+}
+.negro{
+    background-color: black;
+    
+}
+.negro h2{
+    color:white;
+}
