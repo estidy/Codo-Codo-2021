@@ -28,3 +28,11 @@ color: white;
 background:transparent;
 border:1px solid white;
  }
+#btn-submit{
+     background-color: #80C41C;
+     border-color:#80C41C;
+ }
+#index-footer{
+    background-color: #0C1C33;
+}
+#index-footer nav a{color:white}
