@@ -1,6 +1,6 @@
 const comprarTickets=()=>{
     $("#index-banner").hide();
-    $("#index-content").load("/comprarTickets.html");
+    $("#index-content").load("../comprarTickets.html");
 }
 const resumen=()=>{
     let inputs = document.querySelectorAll("input");
